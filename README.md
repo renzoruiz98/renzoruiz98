@@ -32,13 +32,14 @@
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/competitive_programming_profile.png?raw=true" width=40> </picture> My Competitive Programming & Cloud Training Profiles
 
 <p align="center">
-  <a href="https://www.ibm.com/training/mylearning/credentials#section-2"><img src="https://th.bing.com/th/id/OIP.C_BHztcO8R_88a89DKxEhAHaFi?rs=1&pid=ImgDetMain" alt="IBM" width = 70px/></a>
-  <a href="https://mylearn.oracle.com/ou/dashboard"><img src="https://media-exp1.licdn.com/dms/image/C4E0BAQHIznCeBvJgBg/company-logo_200_200/0/1568189266442?e=2159024400&v=beta&t=QOIWNZsBuZs7EAENXLOeMNOzdBgk4IPuj0KnwWU31Uw" alt="GCP" width = 55px/></a>
-  <a href="https://www.cloudskillsboost.google/public_profiles/1a148011-b1b5-45f0-8749-c9fa730d6f6c"><img src="https://www.freecodecamp.org/news/content/images/size/w2000/2020/10/gcp.png" alt="GCP" width = 100px/></a>
-  <a href="https://www.hackerrank.com/profile/renzoefrain"><img src="https://th.bing.com/th/id/R.48fe408e06aa0b0b1dd5456d49c4c3e6?rik=1AY05SgcPZ2aSg&pid=ImgRaw&r=0" alt="LeetCode" Width = 60px/></a>
-	<a href="https://leetcode.com/u/renzoefrainabalosruiz/"><img src="https://cdn.iconscout.com/icon/free/png-256/leetcode-3521542-2944960.png" alt="LeetCode" width = 60px/></a>
-	<a href="https://atcoder.jp/users/renzo_rx"><img src="https://i.ibb.co/Q9WSjDB/logo.png" alt="AtCoder" width = 60px/></a>
-	<a href="https://www.codewars.com/users/renzorx" ><img src="https://th.bing.com/th/id/R.9520319c7b34aebf93372ac4bad10a77?rik=XkYoJXp4Am%2fA9A&pid=ImgRaw&r=0" alt="Codingame" width="60">
+ <a href="https://www.ibm.com/training/mylearning/credentials#section-2"><img src="https://th.bing.com/th/id/OIP.C_BHztcO8R_88a89DKxEhAHaFi?rs=1&pid=ImgDetMain" alt="IBM" width = 70px/></a>
+ <a href="https://mylearn.oracle.com/ou/dashboard"><img src="https://media-exp1.licdn.com/dms/image/C4E0BAQHIznCeBvJgBg/company-logo_200_200/0/1568189266442?e=2159024400&v=beta&t=QOIWNZsBuZs7EAENXLOeMNOzdBgk4IPuj0KnwWU31Uw" alt="GCP" width = 55px/></a>
+ <a href="https://www.cloudskillsboost.google/public_profiles/1a148011-b1b5-45f0-8749-c9fa730d6f6c"><img src="https://www.freecodecamp.org/news/content/images/size/w2000/2020/10/gcp.png" alt="GCP" width = 100px/></a>
+ <a href="https://www.hackerrank.com/profile/renzoefrain"><img src="https://th.bing.com/th/id/R.48fe408e06aa0b0b1dd5456d49c4c3e6?rik=1AY05SgcPZ2aSg&pid=ImgRaw&r=0" alt="LeetCode" Width = 60px/></a>
+ <a href="https://leetcode.com/u/renzoefrainabalosruiz/"><img src="https://cdn.iconscout.com/icon/free/png-256/leetcode-3521542-2944960.png" alt="LeetCode" width = 60px/></a>
+ <a href="https://atcoder.jp/users/renzo_rx"><img src="https://i.ibb.co/Q9WSjDB/logo.png" alt="AtCoder" width = 60px/></a>
+ <a href="https://www.codewars.com/users/renzorx" ><img src="https://th.bing.com/th/id/R.9520319c7b34aebf93372ac4bad10a77?rik=XkYoJXp4Am%2fA9A&pid=ImgRaw&r=0" alt="Codingame" width="60"></a>
+ <a href="https://pathfinder.w3schools.com/"><img src="https://th.bing.com/th/id/R.ed52f5f51ef07664bd615a932d569fc2?rik=jin4ji6h7xiTXg&pid=ImgRaw&r=0" alt="W3Schools" Width = 60px/></a>
 </p>
 
 
